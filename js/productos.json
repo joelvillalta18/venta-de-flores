@@ -1,0 +1,103 @@
+[
+   
+    {
+        "id": "flores 01 -02",
+        "titulo": "flores multicolor 01",
+        "imagen": "./img/abrigos/02.jpg",
+        "categoria": {
+            "nombre": "set de flores",
+            "id": "flores 01"
+        },
+        "precio": 200
+    },
+    {
+        "id": "flores 01 -03",
+        "titulo": "flores de baquita amarilla 02",
+        "imagen": "./img/abrigos/03.jpg",
+        "categoria": {
+            "nombre": "set de flores",
+            "id": "flores 01"
+        },
+        "precio": 120
+    },
+    {
+        "id": "flores 01 -05",
+        "titulo": "flores amarillas 03",
+        "imagen": "./img/abrigos/05.jpg",
+        "categoria": {
+            "nombre": "set de flores",
+            "id": "flores 01"
+        },
+        "precio": 30
+    },
+    {
+        "id": "flores 02 -01",
+        "titulo": "flor de rapumzel 01",
+        "imagen": "./img/camisetas/01.jpg",
+        "categoria": {
+            "nombre": "flores de disney ",
+            "id": "flores 02"
+        },
+        "precio": 65
+    },
+    {
+        "id": "camiseta 02 -02",
+        "titulo": "muñeco de messi 02",
+        "imagen": "./img/camisetas/02.jpg",
+        "categoria": {
+            "nombre": "flores de disney ",
+            "id": "flores 02"
+        },
+        "precio": 70
+    },
+    {
+        "id": "flores 02 -03",
+        "titulo": "flores de spiderman 03",
+        "imagen": "img/abrigos/01.jpg",
+        "categoria": {
+            "nombre": "flores de disney ",
+            "id": "flores 02"
+        },
+        "precio": 150
+    },
+    {
+        "id": "flores 02 -04",
+        "titulo": "flores de spiderman 04",
+        "imagen": "./img/camisetas/04.jpg",
+        "categoria": {
+            "nombre": "flores de disney ",
+            "id": "flores 02"
+        },
+        "precio": 150
+    },
+    {
+        "id": "flores 02 -05",
+        "titulo": "tres flores de spiderman 05",
+        "imagen": "./img/abrigos/04.jpg",
+        "categoria": {
+            "nombre": "flores de disney",
+            "id": "flores 02"
+        },
+        "precio": 50
+    },
+    {
+        "id": "flores 03 -01",
+        "titulo": "tulipan amarillo 01",
+        "imagen": "./img/pantalones/01.jpg",
+        "categoria": {
+            "nombre": "girasoles",
+            "id": "flores 03"
+        },
+        "precio": 30
+    },
+    {
+        "id": "flores 03 -02",
+        "titulo": "girasol 02",
+        "imagen": "./img/pantalones/02.jpg",
+        "categoria": {
+            "nombre": "girasoles",
+            "id": "flores 03"
+        },
+        "precio": 25
+    }
+]
