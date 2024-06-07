@@ -95,7 +95,7 @@
         "titulo": "rosas",
         "imagen": "./img/rosas/2.jpg",
         "categoria": {
-            "nombre": "girasoles",
+            "nombre": "rosas",
             "id": "flores 04"
         },
         "precio": 25
@@ -105,7 +105,7 @@
         "titulo": "rosas",
         "imagen": "./img/rosas/3.jpg",
         "categoria": {
-            "nombre": "girasoles",
+            "nombre": "rosas",
             "id": "flores 04"
         },
         "precio": 32
@@ -115,7 +115,7 @@
         "titulo": "rosas",
         "imagen": "./img/rosas/4.jpg",
         "categoria": {
-            "nombre": "girasoles",
+            "nombre": "rosas",
             "id": "flores 04"
         },
         "precio": 60
@@ -125,7 +125,7 @@
         "titulo": "violeta",
         "imagen":"./img/violestas/1.jpg",
         "categoria": {
-            "nombre": "girasoles",
+            "nombre": "violestas",
             "id": "flores 05"
         },
         "precio": 50
@@ -135,7 +135,7 @@
         "titulo": "violeta",
         "imagen":"./img/violestas/2.jpg",
         "categoria": {
-            "nombre": "girasoles",
+            "nombre": "violestas",
             "id": "flores 05"
         },
         "precio": 40
@@ -145,7 +145,7 @@
         "titulo": "violeta",
         "imagen":"./img/violestas/3.jpg",
         "categoria": {
-            "nombre": "girasoles",
+            "nombre": "violestas",
             "id": "flores 05"
         },
         "precio": 35
@@ -155,7 +155,7 @@
         "titulo": "violeta",
         "imagen":"./img/violestas/4.jpg",
         "categoria": {
-            "nombre": "girasoles",
+            "nombre": "violestas",
             "id": "flores 05"
         },
         "precio": 15
@@ -165,7 +165,7 @@
         "titulo": "violeta",
         "imagen":"./img/violestas/5.jpg",
         "categoria": {
-            "nombre": "girasoles",
+            "nombre": "violestas",
             "id": "flores 05"
         },
         "precio": 30
