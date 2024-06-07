@@ -3,7 +3,7 @@
     {
         "id": "flores 01 -02",
         "titulo": "flores multicolor 01",
-        "imagen": "./img/abrigos/02.jpg",
+        "imagen": "./img/set de flores/02.jpg",
         "categoria": {
             "nombre": "set de flores",
             "id": "flores 01"
@@ -13,7 +13,7 @@
     {
         "id": "flores 01 -03",
         "titulo": "flores de baquita amarilla 02",
-        "imagen": "./img/abrigos/03.jpg",
+        "imagen": "./img/set de flores/03.jpg",
         "categoria": {
             "nombre": "set de flores",
             "id": "flores 01"
@@ -23,7 +23,7 @@
     {
         "id": "flores 01 -05",
         "titulo": "flores amarillas 03",
-        "imagen": "./img/abrigos/05.jpg",
+        "imagen": "./img/set de flores/04.jpg",
         "categoria": {
             "nombre": "set de flores",
             "id": "flores 01"
@@ -33,7 +33,7 @@
     {
         "id": "flores 02 -01",
         "titulo": "flor de rapumzel 01",
-        "imagen": "./img/camisetas/01.jpg",
+        "imagen": "./img/flores de disney/01.jpg",
         "categoria": {
             "nombre": "flores de disney ",
             "id": "flores 02"
@@ -43,7 +43,7 @@
     {
         "id": "camiseta 02 -02",
         "titulo": "muñeco de messi 02",
-        "imagen": "./img/camisetas/02.jpg",
+        "imagen": "./img/flores de disney/02.jpg",
         "categoria": {
             "nombre": "flores de disney ",
             "id": "flores 02"
@@ -53,7 +53,7 @@
     {
         "id": "flores 02 -03",
         "titulo": "flores de spiderman 03",
-        "imagen": "img/abrigos/01.jpg",
+        "imagen": "img/flores de disney/01.jpg",
         "categoria": {
             "nombre": "flores de disney ",
             "id": "flores 02"
@@ -63,7 +63,7 @@
     {
         "id": "flores 02 -04",
         "titulo": "flores de spiderman 04",
-        "imagen": "./img/camisetas/04.jpg",
+        "imagen": "./img/flores de disney/04.jpg",
         "categoria": {
             "nombre": "flores de disney ",
             "id": "flores 02"
@@ -71,19 +71,9 @@
         "precio": 150
     },
     {
-        "id": "flores 02 -05",
-        "titulo": "tres flores de spiderman 05",
-        "imagen": "./img/abrigos/04.jpg",
-        "categoria": {
-            "nombre": "flores de disney",
-            "id": "flores 02"
-        },
-        "precio": 50
-    },
-    {
         "id": "flores 03 -01",
         "titulo": "tulipan amarillo 01",
-        "imagen": "./img/pantalones/01.jpg",
+        "imagen": "./img/girasoles/01.jpg",
         "categoria": {
             "nombre": "girasoles",
             "id": "flores 03"
@@ -93,11 +83,91 @@
     {
         "id": "flores 03 -02",
         "titulo": "girasol 02",
-        "imagen": "./img/pantalones/02.jpg",
+        "imagen": "./img/girasoles/02.jpg",
         "categoria": {
-            "nombre": "girasoles",
+            "nombre": "rosas",
             "id": "flores 03"
         },
         "precio": 25
+    },
+    {
+        "id": "flores 04 -01",
+        "titulo": "rosas",
+        "imagen": "./img/rosas/2.jpg",
+        "categoria": {
+            "nombre": "girasoles",
+            "id": "flores 04"
+        },
+        "precio": 25
+    },
+    {
+        "id": "flores 04 -01",
+        "titulo": "rosas",
+        "imagen": "./img/rosas/3.jpg",
+        "categoria": {
+            "nombre": "girasoles",
+            "id": "flores 04"
+        },
+        "precio": 32
+    },
+    {
+        "id": "flores 04 -01",
+        "titulo": "rosas",
+        "imagen": "./img/rosas/4.jpg",
+        "categoria": {
+            "nombre": "girasoles",
+            "id": "flores 04"
+        },
+        "precio": 60
+    },
+     {
+        "id": "flores 05 -01",
+        "titulo": "violeta",
+        "imagen":"./img/violestas/1.jpg",
+        "categoria": {
+            "nombre": "girasoles",
+            "id": "flores 05"
+        },
+        "precio": 50
+    },
+    {
+        "id": "flores 05 -01",
+        "titulo": "violeta",
+        "imagen":"./img/violestas/2.jpg",
+        "categoria": {
+            "nombre": "girasoles",
+            "id": "flores 05"
+        },
+        "precio": 40
+    },
+    {
+        "id": "flores 05 -01",
+        "titulo": "violeta",
+        "imagen":"./img/violestas/3.jpg",
+        "categoria": {
+            "nombre": "girasoles",
+            "id": "flores 05"
+        },
+        "precio": 35
+    },
+    {
+        "id": "flores 05 -01",
+        "titulo": "violeta",
+        "imagen":"./img/violestas/4.jpg",
+        "categoria": {
+            "nombre": "girasoles",
+            "id": "flores 05"
+        },
+        "precio": 15
+    },
+    {
+        "id": "flores 05 -01",
+        "titulo": "violeta",
+        "imagen":"./img/violestas/5.jpg",
+        "categoria": {
+            "nombre": "girasoles",
+            "id": "flores 05"
+        },
+        "precio": 30
     }
 ]
